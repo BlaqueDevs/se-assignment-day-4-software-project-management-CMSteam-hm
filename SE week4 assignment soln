@@ -1,0 +1,52 @@
+1. Timely delivery in software project management is crucial because it ensures customer satisfaction, minimizes costs, and allows businesses to stay competitive. To meet deadlines, project managers can:
+   - Use clear project plans and milestones to track progress.
+   - Prioritize tasks effectively using tools like Gantt charts.
+   - Use agile methods to continuously assess and adjust deliverables.
+   - Maintain regular communication with the team and stakeholders.
+
+2. Effective cost control ensures that a software project stays within budget, helping prevent resource depletion and avoiding financial overruns. Strategies to avoid budget overruns include:
+   - Accurate cost estimation at the start of the project.
+   - Regular cost monitoring and adjustments based on project progress.
+   - Contingency planning to manage unexpected costs.
+   - Scope control to prevent scope creep, which can lead to additional expenses.
+
+3. Agile and Waterfall are two major software development methodologies:
+   - Agile is flexible and iterative, emphasizing collaboration, adaptability, and customer feedback. Pros: Faster delivery, adaptability to changes. Cons: Less predictable timelines and scope.
+   - Waterfall is a linear, sequential approach with clear stages. Pros: Clear requirements and timelines. Cons: Less flexibility to change once development starts.
+   
+4. Agile is more beneficial in projects requiring frequent changes and customer feedback, such as app development or startups where requirements evolve. **Waterfall** is better suited for projects with well-defined requirements and limited changes, like construction software or government projects.
+
+5. Quality assurance (QA) can be maintained through:
+   - Automated testing for continuous integration.
+   - Peer reviews and code audits.
+   - User acceptance testing (UAT) to align the software with customer expectations.
+   High standards in QA reduce bugs, enhance user satisfaction, and ensure reliability.
+
+6. Defining the project scope establishes clear objectives and deliverables, preventing scope creep and cost overruns. A **Work Breakdown Structure (WBS)** breaks down a project into smaller, manageable tasks. It is useful for:
+   - Organizing and assigning tasks.
+   - Tracking progress.
+   - Clarifying team roles and responsibilities.
+
+7. Developing a detailed project schedule helps allocate time and resources efficiently, ensuring the project stays on track. **Gantt charts** visually represent project timelines, making it easier to:
+   - Track task dependencies.
+   - Identify potential bottlenecks.
+   - Ensure timely completion.
+
+8. Core issues the software aims to address include:
+   - User accessibility: Providing a streamlined, user-friendly interface for shopping.
+   - Inventory management: Ensuring real-time updates to stock availability.
+   - Efficient purchasing process: Reducing friction in cart and payment functionalities.
+   These problems are significant because customers expect smooth, fast, and reliable e-commerce experiences.
+
+9. Clearly defining the problem helps tailor the software to address specific pain points, leading to a more focused, efficient solution. It avoids unnecessary features and focuses development efforts on high-value areas.
+
+10. The software solution can be described as: "An intuitive and streamlined e-commerce platform focused on enhancing the football shopping experience through efficient catalog management, easy-to-use cart features, and seamless checkout."
+
+11. Main features that make the software stand out include:
+   - Customizable football kits with detailed product information.
+   - Real-time inventory updates and stock alerts.
+   - Simple, fast checkout with multiple payment options.
+
+12. Data regarding market size and growth potential can be derived from the growing demand for sports apparel, increasing online shopping trends, and the expansion of football fandom worldwide.
+
+13. Understanding market trends like the shift towards personalized products and fast online shopping helps position the software to meet customer expectations and stay competitive. It informs decisions about features, target audience, and future updates.
